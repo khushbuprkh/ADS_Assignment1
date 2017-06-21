@@ -11,7 +11,9 @@ RUN apt-get update -q && apt-get install -yqq \
     build-essential \
     libkrb5-dev \
     sudo
+
 RUN apt-get install -y python python-dev python-distribute python-pip
+RUN pip install --upgrade pip
 RUN pip install numpy
 RUN pip install pandas
 RUN pip install matplotlib
