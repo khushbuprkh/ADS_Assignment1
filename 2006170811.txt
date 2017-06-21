@@ -1,0 +1,28 @@
+[2017-06-20 15:08:15.290000] : Raw Data Link from config file: FL_190617_12832.csv
+[2017-06-20 15:08:15.290000] : Clean Data Link from config file: FL_190617_12832.csv
+[2017-06-20 15:08:40.562000] : File exists.
+[2017-06-20 15:10:42.262000] : File exists.
+[2017-06-20 15:11:18.158000] : File exists.
+[2017-06-20 15:11:33.642000] : File exists.
+[2017-06-20 15:12:35.374000] : File exists.
+[2017-06-20 15:12:43.115000] : File exists.
+[2017-06-20 15:12:52.936000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 15:13:05.868000] : File exists.
+[2017-06-20 15:13:11.919000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 15:13:32.583000] : File exists.
+[2017-06-20 15:13:47.129000] : File exists.
+[2017-06-20 15:13:55.299000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 15:28:29.762000] : File exists.
+[2017-06-20 15:28:36.095000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 15:29:14.966000] : File exists.
+[2017-06-20 15:29:25.076000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 15:30:09.290000] : File exists.
+[2017-06-20 15:30:16.364000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 22:51:15.017000] : File exists.
+[2017-06-20 22:51:20.740000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 22:52:30.399000] : File exists.
+[2017-06-20 22:52:35.309000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 22:55:19.443000] : File exists.
+[2017-06-20 22:55:24.384000] : FL_190617_12832.csv has been uploaded to 9flassignment1
+[2017-06-20 22:55:51.955000] : File exists.
+[2017-06-20 22:55:58.278000] : FL_190617_12832.csv has been uploaded to 9flassignment1

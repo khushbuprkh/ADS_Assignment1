@@ -1,0 +1,17 @@
+{
+  "state": "FL",
+  "team": 9,
+  "StationId":"12832",
+  "link1": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link2": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link3": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link4": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link5": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link6": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link7": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link8": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "link9": "https://www.ncei.noaa.gov/orders/cdo/995475.csv",
+  "AWSAccess":"AKIAIW6ZELHRP2BGDL5Q",
+  "AWSSecret":"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",
+  "notificationEmail":"test@test.com"
+}

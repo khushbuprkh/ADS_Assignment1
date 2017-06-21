@@ -1,0 +1,9 @@
+{
+  "state": "FL",
+  "team": 9,
+  "rawData": "FL_190617_12832.csv",
+  "cleanData": "FL_190617_12832.csv",
+  "AWSAccess":"AKIAIW6ZELHRP2BGDL5Q",
+  "AWSSecret":"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",
+  "notificationEmail":"test@test.com"
+}
