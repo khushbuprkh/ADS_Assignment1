@@ -1,0 +1,5 @@
+[2017-06-23 02:19:14.800000] : Link from config file: https://www.ncei.noaa.gov/orders/cdo/1000169.csv
+[2017-06-23 02:19:14.800000] : S3 bucket has been successfully created.
+[2017-06-23 02:19:18.147000] : Base file exists in the bucket9flassignment1
+[2017-06-23 02:19:34.274000] : FL_230617_12832.csv has been uploaded to 9flassignment1
+[2017-06-23 02:19:34.396000] : File already exists.

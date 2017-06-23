@@ -1,1 +1,1 @@
-python dataingestion.py
+make

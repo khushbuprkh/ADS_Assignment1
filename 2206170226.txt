@@ -1,0 +1,4 @@
+[2017-06-22 23:02:28.744000] : Link from config file: https://www.ncei.noaa.gov/orders/cdo/1000169.csv
+[2017-06-22 23:02:30.228000] : S3 bucket has been successfully created.
+[2017-06-22 23:02:50.691000] : FL_12832.csv has been uploaded to 9flassignment1
+[2017-06-22 23:17:47.483000] : FL_220617_12832.csv has been uploaded to 9flassignment1
